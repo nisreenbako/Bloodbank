@@ -1,0 +1,13 @@
+bloodbank.BloodTypeB
+bloodbank.B
+bloodbank.A
+bloodbank.BloodTypeA
+bloodbank.AB
+bloodbank.BloodtypeA
+bloodbank.result
+bloodbank.BloodtypeB
+bloodbank.Blood
+bloodbank.BloodtypeO
+bloodbank.BloodtypeAB
+bloodbank.O
+bloodbank.test
